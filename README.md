@@ -1,5 +1,3 @@
-- Tabele "Service" oraz "Repair" oznaczają odpowiednio Przegląd oraz Naprawę.
-- Przegląd posiada swój typ.
-  - W ramach przeglądu można zlecić wiele napraw.
-- Każda naprawa posiada przypisanego jednego pracownika.
-  - Naprawa posiada opis problemu oraz aktualny status.
+This is a React interface for a sports equipment rental and repair shop.
+
+The backend for this application can be found in the [internet-technologies-express](https://github.com/karolpela/internet-technologies-express) repository.
